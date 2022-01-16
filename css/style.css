@@ -238,7 +238,7 @@ header{
 }
 .proyecto__texto h3{
     text-align: center;
-    color: var(--body);
+    color: var(--text);
 }
 
 .image{
